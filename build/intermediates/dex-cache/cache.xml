@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-9319a2474bdafbad796bcd1a7b831c8ee053103c.jar" />
+    </item>
+    <item
+        jar="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-d71027b6ed4ac6c5b806587544931edf2360bfe4.jar" />
+    </item>
+    <item
+        jar="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-831c1f2a2ae08196ecc19dc3306bd9b81fb7388c.jar" />
+    </item>
+    <item
+        jar="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-61311ce2f296c90f722809b46031a099ce49f3af.jar" />
+    </item>
+    <item
+        jar="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-9eb2dba275cfbf3133766fcce157b17551327558.jar" />
+    </item>
+    <item
+        jar="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/agus/private/brainmatics/trainingmaret2016/source/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-454479526ca7c4b25f32517e1081a87f7986fbb8.jar" />
+    </item>
+    <item
+        jar="/Users/agus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c49c44bcadcbd02d2aaac1f483b44167e21e57ef.jar" />
+    </item>
+    <item
+        jar="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-2b88d5e05b38b683c25dd0573be250241834ead5.jar" />
+    </item>
+    <item
+        jar="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/agus/Training/BraimaTics/dec2016/core/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-dcfe71c7256fb17186f8a77e169c28c9bc0fc356.jar" />
+    </item>
+    <item
+        jar="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/agus/private/brainmatics/bidakara/MultiLanguageApp/app/build/intermediates/pre-dexed/debug/classes-91135138dca494eaec5d7f0b97ffc28e5f1d164d.jar" />
+    </item>
+
+</items>
